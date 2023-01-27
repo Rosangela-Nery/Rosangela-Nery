@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rosângela Nery
+## Oiii! Eu sou a Rosângela Nery <img align="right" alt="Rosa-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202301/338224_bdsXFE1P.png">
 
 <div>
   <a href="https://github.com/Rosangela-Nery">
@@ -17,7 +17,6 @@
   <img align="center" alt="Rosa-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Rosa-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Rosa-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="right" alt="Rosa-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202301/338224_bdsXFE1P.png">
 </div>
 
 ##
