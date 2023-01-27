@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rosângela Nery <img align="right" alt="Rosa-pic" heigth="160em" width="300rem" style="border-radius:90px;" src="https://cdn.picrew.me/shareImg/org/202301/338224_bdsXFE1P.png">
+## Oiii! Eu sou a Rosa <img align="right" alt="Rosa-pic" heigth="160em" width="300rem" style="border-radius:90px;" src="https://cdn.picrew.me/shareImg/org/202301/338224_bdsXFE1P.png">
 
 <div>
   <a href="https://github.com/Rosangela-Nery">
